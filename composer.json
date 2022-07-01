@@ -1,0 +1,27 @@
+{
+    "name": "login/google",
+    "type": "project",
+    "description": "Teste de login.",
+    "keywords": ["login", "google"],
+    "license": "MIT",
+    "require": {
+        "php": "^7.3|^8.0",
+        "firebase/php-jwt": "^6.2",
+        "google/apiclient-services": "^0.255.0",
+        "google/auth": "^1.21",
+        "guzzlehttp/guzzle": "^7.4",
+        "guzzlehttp/psr7": "^2.4",
+        "monolog/monolog": "^2.7",
+        "phpseclib/phpseclib": "^3.0",
+        "cache/filesystem-adapter": "^1.2",
+        "composer/composer": "^2.3",
+        "phpcompatibility/php-compatibility": "^9.3",
+        "phpspec/prophecy-phpunit": "^2.0",
+        "phpunit/phpunit": "^9.5",
+        "squizlabs/php_codesniffer": "^3.7",
+        "symfony/css-selector": "^5.4",
+        "symfony/dom-crawler": "^5.4",
+        "yoast/phpunit-polyfills": "^1.0",
+        "google/apiclient": "^2.12"
+    }
+}
